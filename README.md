@@ -51,11 +51,13 @@ Clic on top right button and choose "Interpreter"
 
 ### Update Hive interpreter
 Set the Hive server to your MapR Sandbox ip address (localhost by default)
+To update clic the "edit" button on top right, then "save" when done
 ![](/Images/4-zep-update-hive.png)
 
 ### Update Drill interpreter (if needed)
 If you need Drill set it as well.
 You can set any other Interpreter according to your needs
+To update clic the "edit" button on top right, then "save" when done
 ![](/Images/5-zep-update-drill.png)
 
 ### Import the DSR demo Notebook
